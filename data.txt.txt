@@ -1,0 +1,7 @@
+1082:Anatoliy:Ivanovich:Kapec:Salary
+1083:Vasiliy:Antonovich:Shmatko:HR
+1084:Kali:Anote:Raiym:Manager
+1085:Ivaks:Loker:Open:SystemAdmin
+1086:Jacob:Router:Banana:Coffe
+1087:Emil:Anotera:Jackues:Opener
+1088:Joker:Koal:Loerk:Tester
